@@ -11,3 +11,6 @@ This gives us the idea of the perplexity of the GPT model , so that we can decid
 
 Also the GPTPrediction.pkl file give us the output of the GPT file that consist the answers that GPT could have given for the question asked 
 
+Also inorder to evaluate the model we did find  the F1 Score , Recall , Precision , Perplexity , albation study such as by using word cloud and histograms we 
+studied in three-  levels 1)Data Set 2) Question/Answer Length Type 3)Data preprocessing and Hyper parameter tuning  
+
