@@ -9,3 +9,9 @@ This project is interesting because it helps developers evaluate which model to 
 ### The code
 
 In the folders GPT, Bert, and Albert, you will find the jupyter notebooks and instructions for running each of the three models. The data folder contains the data we used to test our models
+
+
+### Testing
+The test_application.py is a user-friendly application that lets the user observe how well (or poorly) the three models perform. It prompts the user to enter the context and the question as the inputs and generates the outputs.
+
+(Note that the test_application.py was run on Google Collab and hence has few initial pip install statements. These can be ignored if you already have all the required libraries installed in your system)
