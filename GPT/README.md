@@ -14,3 +14,7 @@ Also the GPTPrediction.pkl file give us the output of the GPT file that consist 
 Also inorder to evaluate the model we did find  the F1 Score , Recall , Precision , Perplexity , albation study such as by using word cloud and histograms we 
 studied in three-  levels 1)Data Set 2) Question/Answer Length Type 3)Data preprocessing and Hyper parameter tuning  
 
+![image](https://user-images.githubusercontent.com/90734448/184552746-3c9b7273-a13b-4e16-b581-e47e91781c90.png)
+
+
+
